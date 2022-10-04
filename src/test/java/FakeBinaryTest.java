@@ -12,7 +12,7 @@ class FakeBinaryTest {
 
         //Then
 
-        String actual = FakeBinary.convertString();
+        String actual = FakeBinary.convertString(imputNumber);
 
         //When
 
