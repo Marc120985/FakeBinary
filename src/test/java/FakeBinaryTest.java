@@ -7,7 +7,8 @@ class FakeBinaryTest {
     @Test
     public void testConvertToBinary(){
         //Given
-        //
+        //Then
+        //When
     }
 
 
